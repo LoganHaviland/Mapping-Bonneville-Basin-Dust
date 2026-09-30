@@ -3,14 +3,6 @@ message: "If you use this software, please cite it as below."
 authors:
 - family-names: "Haviland"
   given-names: "Logan B."
-- family-names: "Hansen"
-  given-names: "Kylie"
-- family-names: "Wilcox"
-  given-names: "Steven W."
-- family-names: "Akhundjanov
-  given-names: "Sherzod"
-- family-names: "Zhang"
-  given-names: "Wei"
 title: "Mapping-Bonneville-Basin-Dust"
 version: 0.1.0
 doi: 10.5281/zenodo.23070518
