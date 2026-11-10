@@ -1,5 +1,7 @@
 # Annual Maximum Water Levels at Great Salt Lake Gages (1998–2024)
 
+Uses R Version 4.4.1 and the 'dataRetrieval' package version 2.7.23
+
 Retrieve_USGS_Water_Levels.R downloads USGS data for seven Great Salt Lake gages and returns, for each site and year, the annual maximum and the date it occurred for:
 
 | Variable                            | Parameter code |
@@ -22,7 +24,7 @@ No API key is needed.
 
 ## Output
 
-`output/08_gsl_annual_max.csv` has one row per site-year:
+`output/gsl_annual_max.csv` has one row per site-year:
 
 | Column | Description |
 |------------------------------------|------------------------------------|
