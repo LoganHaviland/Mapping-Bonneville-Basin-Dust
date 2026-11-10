@@ -32,3 +32,4 @@ This repo is organized with all of the code and its associated README in the 'Co
 The **HYSPLIT** folder contains the custom code to run the HYSPLIT program for all of our region and years. 
 
 Separate README files are provided for the different parts of the code process. If the code does not work for your system please contact the author at logan.haviland@usu.edu.
+Credentials and accounts will be required for Google Cloud Storage with substantial storage constraints and very long processing times for the HYSPLIT model.
