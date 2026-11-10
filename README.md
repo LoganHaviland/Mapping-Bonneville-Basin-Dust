@@ -31,4 +31,4 @@ This repo is organized with all of the code and its associated README in the 'Co
 
 The **HYSPLIT** folder contains the custom code to run the HYSPLIT program for all of our region and years. 
 
-Separate README files are provided for the different parts of the code process.
+Separate README files are provided for the different parts of the code process. If the code does not work for your system please contact the author at logan.haviland@usu.edu.
