@@ -23,7 +23,7 @@ This project has used the following:
 
 This repo is organized with all of the code and its associated README in the 'Code' Folder. 
 
-**PronePolygon_Code** contains the script that determines the potential hotspot areas in the Greater Bonneville Basin. Of note in the README is a reference to 4 final areas - this was later split into 8 which is mentioned in the manuscript. 
+**PronePolygon_Code** contains the script that determines the potential hotspot areas in the Greater Bonneville Basin. Of note in the README is a reference to 4 final areas - this was later split into 8 which is mentioned in the manuscript. This change was made for two main reasons; the first was differences within those areas (Sevier Lake Proper versus surrounding Delta), the second was for computational feasibility. Areas in the West Desert are both large and generally dry resulting in a number of points that was not feasible to run all at once. Hence we split this into sub regions. We believe little harm comes from this as there are both valid reasons for doing it and we can aggregate and combine those trajectories to achieve an unsplit version as well.
 
 **Earth Engine python colab code** contains the scripts for sampling and getting satellite imagery (Landsat) for our various dust hotspot regions and then obtaining the different indices (NDWI, and EVI). 
 
