@@ -1,2 +1,4 @@
+C:/Users/Haviland[[:space:]]Family/Documents/Mapping-Bonneville-Basin-Dust/Code/PronePolygon_Code/data/inputs/wss.counties.shp filter=lfs diff=lfs merge=lfs -text
+C:/Users/Haviland[[:space:]]Family/Documents/Mapping-Bonneville-Basin-Dust/Code/PronePolygon_Code/data/inputs/GSLSSURGODatabase.gpkg filter=lfs diff=lfs merge=lfs -text
 wss.counties.shp filter=lfs diff=lfs merge=lfs -text
 GSLSSURGODatabase.gpkg filter=lfs diff=lfs merge=lfs -text
